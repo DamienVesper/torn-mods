@@ -1,5 +1,5 @@
 # torn-mods
-A collection of mods for the online game [Torn.Space](https://torn.space)
+A collection of mods for the online game [Torn.Space](https://torn.space).
 
 ## Installation Methods
 
